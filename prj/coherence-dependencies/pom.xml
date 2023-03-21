@@ -202,7 +202,7 @@
     to see what the latest corresponding image tag is. Sometimes the Graal version in Maven central is a later
     patch than the latest available image tag.
     -->
-    <graal.version>19.3.1</graal.version>
+    <graal.version>19.3.6</graal.version>
     <!-- the tag of the Graal image at ghcr.io/graalvm/graalvm-ce -->
     <graal.image.tag>ol8-java17-22.1.0</graal.image.tag>
     <grpc.version>1.49.2</grpc.version>
