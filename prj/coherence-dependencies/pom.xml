@@ -187,7 +187,7 @@
     <codemodel.version>2.6</codemodel.version>
     <com.oracle.ipc.version>12.1.4-150528</com.oracle.ipc.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon microprofile -->
-    <eclipse.mp.config.version>3.0.1</eclipse.mp.config.version>
+    <eclipse.mp.config.version>3.1</eclipse.mp.config.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon microprofile -->
     <eclipse.mp.health.version>4.0</eclipse.mp.health.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon microprofile -->
