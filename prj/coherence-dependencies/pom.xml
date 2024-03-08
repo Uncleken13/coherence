@@ -242,7 +242,7 @@
     <javax.cache.tck.version>1.1.1</javax.cache.tck.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon -->
     <jaxb-core.version>3.0.2</jaxb-core.version>
-    <jaxb-impl.version>3.0.2</jaxb-impl.version>
+    <jaxb-impl.version>4.0.5</jaxb-impl.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon
          This is not always possible if we need to bump versions for CVE's -->
     <jersey.version>3.0.5</jersey.version>
