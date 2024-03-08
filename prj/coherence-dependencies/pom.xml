@@ -236,7 +236,7 @@
     <jakarta.servlet.version>4.0.4</jakarta.servlet.version>
     <jakarta.servlet.jsp.version>2.3.6</jakarta.servlet.jsp.version>
     <jakarta.ws.rs.version>3.0.0</jakarta.ws.rs.version>
-    <jakarta.xml.bind.version>3.0.1</jakarta.xml.bind.version>
+    <jakarta.xml.bind.version>4.0.2</jakarta.xml.bind.version>
     <jandex.version>2.4.3.Final</jandex.version>
     <javax.cache.version>1.1.1</javax.cache.version>
     <javax.cache.tck.version>1.1.1</javax.cache.tck.version>
