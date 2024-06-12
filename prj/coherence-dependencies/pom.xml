@@ -233,7 +233,7 @@
     <jakarta.json.bind.version>2.0.0</jakarta.json.bind.version>
     <jakarta.json.impl.version>2.0.1</jakarta.json.impl.version>
     <jakarta.resource.version>2.0.0</jakarta.resource.version>
-    <jakarta.servlet.version>4.0.4</jakarta.servlet.version>
+    <jakarta.servlet.version>6.1.0</jakarta.servlet.version>
     <jakarta.servlet.jsp.version>2.3.6</jakarta.servlet.jsp.version>
     <jakarta.ws.rs.version>3.0.0</jakarta.ws.rs.version>
     <jakarta.xml.bind.version>3.0.1</jakarta.xml.bind.version>
