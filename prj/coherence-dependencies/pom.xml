@@ -179,7 +179,7 @@
      <maven.groovy.plugin.version>2.1.1</maven.groovy.plugin.version>
 
     <!-- library dependency versions -->
-    <asciidoctor.diagram.version>2.0.2</asciidoctor.diagram.version>
+    <asciidoctor.diagram.version>2.3.1</asciidoctor.diagram.version>
     <asm.version>9.4</asm.version>
     <bdb.version>6.2.31</bdb.version>
     <bnd.version>5.2.0</bnd.version>
