@@ -28,7 +28,7 @@
 
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
-    <maven.exec.plugin.version>3.1.0</maven.exec.plugin.version>
+    <maven.exec.plugin.version>3.4.1</maven.exec.plugin.version>
     <maven.failsafe.plugin.version>3.0.0-M7</maven.failsafe.plugin.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon -->
     <maven.jandex.plugin.version>1.2.3</maven.jandex.plugin.version>
