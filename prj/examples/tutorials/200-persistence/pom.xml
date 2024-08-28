@@ -34,7 +34,7 @@
     <maven.failsafe.plugin.version>3.0.0-M5</maven.failsafe.plugin.version>
     <maven.jar.plugin.version>3.0.2</maven.jar.plugin.version>
     <maven.gmaven.plugin.version>1.5</maven.gmaven.plugin.version>
-    <maven.surefire.plugin.version>3.0.0-M5</maven.surefire.plugin.version>
+    <maven.surefire.plugin.version>3.5.0</maven.surefire.plugin.version>
 
     <junit.jupiter.version>5.7.0</junit.jupiter.version>
     <hamcrest.version>2.2</hamcrest.version>

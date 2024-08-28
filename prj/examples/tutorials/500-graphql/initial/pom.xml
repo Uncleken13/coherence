@@ -32,7 +32,7 @@
     <maven.failsafe.plugin.version>3.0.0-M7</maven.failsafe.plugin.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon -->
     <maven.jandex.plugin.version>1.2.3</maven.jandex.plugin.version>
-    <maven.surefire.plugin.version>3.0.0-M7</maven.surefire.plugin.version>
+    <maven.surefire.plugin.version>3.5.0</maven.surefire.plugin.version>
 
     <junit.jupiter.version>5.9.0</junit.jupiter.version>
 
