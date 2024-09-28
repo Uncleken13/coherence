@@ -106,7 +106,7 @@
     <maven.flatten.plugin.version>1.2.2</maven.flatten.plugin.version>
     <maven.install.plugin.version>2.5.1</maven.install.plugin.version>
 
-    <maven.gpg.plugin.version>1.6</maven.gpg.plugin.version>
+    <maven.gpg.plugin.version>3.2.7</maven.gpg.plugin.version>
     <nexus.staging.maven.plugin.version>1.6.7</nexus.staging.maven.plugin.version>
   </properties>
 
