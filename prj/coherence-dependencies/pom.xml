@@ -278,7 +278,7 @@
     <hamcrest-2.version>2.2</hamcrest-2.version>
     <junit.version>4.13.2</junit.version>
     <junit.jupiter.version>5.8.2</junit.jupiter.version>
-    <mockito.version>3.12.4</mockito.version>
+    <mockito.version>5.14.1</mockito.version>
     <objenesis.version>2.2</objenesis.version>
     <oracle.bedrock.version>7.0.1</oracle.bedrock.version>
     <testcontainers.version>1.17.3</testcontainers.version>
