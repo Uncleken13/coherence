@@ -152,7 +152,7 @@
      <maven.directory.plugin.version>0.1</maven.directory.plugin.version>
      <maven.docker.plugin.version>0.15.7</maven.docker.plugin.version>
      <maven.enforcer.plugin.version>3.0.0-M2</maven.enforcer.plugin.version>
-     <maven.exec.plugin.version>1.4.0</maven.exec.plugin.version>
+     <maven.exec.plugin.version>3.5.0</maven.exec.plugin.version>
      <maven.flatten.plugin.version>1.2.2</maven.flatten.plugin.version>
      <maven.failsafe.plugin.version>3.0.0-M7</maven.failsafe.plugin.version>
      <maven.gmaven.plugin.version>1.13.1</maven.gmaven.plugin.version>
