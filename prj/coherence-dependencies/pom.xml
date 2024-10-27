@@ -195,7 +195,7 @@
     <felix.version>6.0.4</felix.version>
     <glassfish.jmxmp.version>1.0-b01-ea</glassfish.jmxmp.version>
     <glassfish.el.version>3.0.1-b08</glassfish.el.version>
-    <google-error-prone.version>2.3.3</google-error-prone.version>
+    <google-error-prone.version>2.35.1</google-error-prone.version>
     <!--
     NOTE: The Graal version and the Graal image tag should ideally be kept as close as possible
     When bumping the Graal version, check here https://github.com/graalvm/container/pkgs/container/graalvm-ce
