@@ -214,7 +214,7 @@
     grpc.version ???
     This is not always possible if we need to bump versions for CVE's
     -->
-    <helidon.version>3.1.2</helidon.version>
+    <helidon.version>3.2.11</helidon.version>
     <helidon.sitegen.version>2.1.2</helidon.sitegen.version>
     <hsqldb.version>2.3.2</hsqldb.version>
     <groovy.version>3.0.12</groovy.version>
