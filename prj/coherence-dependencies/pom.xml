@@ -249,7 +249,7 @@
     <jettison.version>1.5.3</jettison.version>
     <jline.version>3.20.0</jline.version>
     <log4j2.version>2.18.0</log4j2.version>
-    <micrometer.version>1.6.6</micrometer.version>
+    <micrometer.version>1.14.2</micrometer.version>
     <!-- NOTE: mvel dependency removed.
          version is preserved for backwards compatibility testing in rest-mvel -->
     <mvel.version>2.4.12.Final</mvel.version>
