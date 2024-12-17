@@ -267,7 +267,7 @@
     <slf4j.version>1.7.36</slf4j.version>
     <spymemcached.version>2.12.3</spymemcached.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon -->
-    <weld.version>4.0.3.Final</weld.version>
+    <weld.version>6.0.0.Final</weld.version>
     <weld-junit.version>3.1.0.Final</weld-junit.version>
 
     <!-- commercial dependencies   -->
