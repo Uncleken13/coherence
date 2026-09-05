@@ -142,36 +142,36 @@
 
     <!-- plugin dependency versions -->
      <maven.antrun.plugin.version>1.8</maven.antrun.plugin.version>
-     <maven.assembly.plugin.version>3.0.0</maven.assembly.plugin.version>
-     <maven.build.helper.plugin.version>1.8</maven.build.helper.plugin.version>
-     <maven.bundle.plugin.version>5.1.1</maven.bundle.plugin.version>
-     <maven.compiler.plugin.version>3.7.0</maven.compiler.plugin.version>
-     <maven.dependency.plugin.version>2.8</maven.dependency.plugin.version>
-     <maven.dependency-check.plugin.version>8.1.1</maven.dependency-check.plugin.version>
+     <maven.assembly.plugin.version>3.8.0</maven.assembly.plugin.version>
+     <maven.build.helper.plugin.version>1.12</maven.build.helper.plugin.version>
+     <maven.bundle.plugin.version>5.1.9</maven.bundle.plugin.version>
+     <maven.compiler.plugin.version>3.16.0</maven.compiler.plugin.version>
+     <maven.dependency.plugin.version>2.10</maven.dependency.plugin.version>
+     <maven.dependency-check.plugin.version>8.4.3</maven.dependency-check.plugin.version>
      <maven.deploy.plugin.version>2.8.2</maven.deploy.plugin.version>
      <maven.directory.plugin.version>0.1</maven.directory.plugin.version>
      <maven.docker.plugin.version>0.15.7</maven.docker.plugin.version>
      <maven.enforcer.plugin.version>3.0.0-M2</maven.enforcer.plugin.version>
-     <maven.exec.plugin.version>1.4.0</maven.exec.plugin.version>
-     <maven.flatten.plugin.version>1.2.2</maven.flatten.plugin.version>
-     <maven.failsafe.plugin.version>3.0.0-M7</maven.failsafe.plugin.version>
+     <maven.exec.plugin.version>1.6.0</maven.exec.plugin.version>
+     <maven.flatten.plugin.version>1.8.0</maven.flatten.plugin.version>
+     <maven.failsafe.plugin.version>3.6.0</maven.failsafe.plugin.version>
      <maven.gmaven.plugin.version>1.13.1</maven.gmaven.plugin.version>
      <maven.gmaven.providerSelection.version>1.8</maven.gmaven.providerSelection.version>
      <maven.gpg.plugin.version>1.6</maven.gpg.plugin.version>
-     <maven.install.plugin.version>2.5.1</maven.install.plugin.version>
+     <maven.install.plugin.version>2.5.2</maven.install.plugin.version>
      <!-- NOTE: this version should ideally be in sync' with that used by Helidon -->
-     <maven.jandex.plugin.version>1.1.1</maven.jandex.plugin.version>
+     <maven.jandex.plugin.version>1.2.3</maven.jandex.plugin.version>
      <maven.jar.plugin.version>3.2.2</maven.jar.plugin.version>
-     <maven.javadoc.plugin.version>3.4.0</maven.javadoc.plugin.version>
-     <maven.jib.plugin.version>2.5.2</maven.jib.plugin.version>
+     <maven.javadoc.plugin.version>3.12.0</maven.javadoc.plugin.version>
+     <maven.jib.plugin.version>2.8.0</maven.jib.plugin.version>
      <maven.moditect.plugin.version>1.0.0-RC2</maven.moditect.plugin.version>
      <maven.nbm.plugin.version>2.6.2</maven.nbm.plugin.version>
      <maven.release.plugin.version>2.4</maven.release.plugin.version>
      <maven.replacer.plugin.version>1.5.2</maven.replacer.plugin.version>
      <maven.resources.plugin.version>2.7</maven.resources.plugin.version>
-     <maven.shade.plugin.version>3.3.0</maven.shade.plugin.version>
+     <maven.shade.plugin.version>3.6.2</maven.shade.plugin.version>
      <maven.site.plugin.version>3.9.0</maven.site.plugin.version>
-     <maven.source.plugin.version>2.2.1</maven.source.plugin.version>
+     <maven.source.plugin.version>2.4</maven.source.plugin.version>
      <maven.surefire.plugin.version>3.0.0-M7</maven.surefire.plugin.version>
      <maven.animalsniffer.plugin.version>1.18</maven.animalsniffer.plugin.version>
      <nexus.staging.maven.plugin.version>1.6.7</nexus.staging.maven.plugin.version>
@@ -179,15 +179,15 @@
      <maven.groovy.plugin.version>2.1.1</maven.groovy.plugin.version>
 
     <!-- library dependency versions -->
-    <asciidoctor.diagram.version>2.0.2</asciidoctor.diagram.version>
+    <asciidoctor.diagram.version>2.3.2</asciidoctor.diagram.version>
     <asm.version>9.4</asm.version>
     <bdb.version>6.2.31</bdb.version>
     <bnd.version>5.2.0</bnd.version>
-    <caffeine.version>3.1.1</caffeine.version>
+    <caffeine.version>3.2.4</caffeine.version>
     <codemodel.version>2.6</codemodel.version>
     <com.oracle.ipc.version>12.1.4-150528</com.oracle.ipc.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon microprofile -->
-    <eclipse.mp.config.version>3.0.1</eclipse.mp.config.version>
+    <eclipse.mp.config.version>3.1.1</eclipse.mp.config.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon microprofile -->
     <eclipse.mp.health.version>4.0</eclipse.mp.health.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon microprofile -->
@@ -217,19 +217,19 @@
     <helidon.version>3.1.2</helidon.version>
     <helidon.sitegen.version>2.1.2</helidon.sitegen.version>
     <hsqldb.version>2.3.2</hsqldb.version>
-    <groovy.version>3.0.12</groovy.version>
-    <jackson.version>2.14.1</jackson.version>
-    <jackson.databind.version>2.14.1</jackson.databind.version>
-    <jacoco.version>0.8.8</jacoco.version>
+    <groovy.version>3.0.25</groovy.version>
+    <jackson.version>2.22</jackson.version>
+    <jackson.databind.version>2.22.2</jackson.databind.version>
+    <jacoco.version>0.8.15</jacoco.version>
     <jaeger.version>1.6.0</jaeger.version>
     <!-- NOTE: these Jakarta versions should ideally be in sync' with that used by Helidon -->
-    <jakarta.activation.version>2.0.1</jakarta.activation.version>
-    <jakarta.annotation.version>2.0.0</jakarta.annotation.version>
+    <jakarta.activation.version>2.1.4</jakarta.activation.version>
+    <jakarta.annotation.version>2.1.1</jakarta.annotation.version>
     <jakarta.enterprise.cdi.version>3.0.0</jakarta.enterprise.cdi.version>
-    <jakarta.inject.version>2.0.1</jakarta.inject.version>
+    <jakarta.inject.version>2.0.1.MR</jakarta.inject.version>
     <jakarta.interceptor.version>2.0.0</jakarta.interceptor.version>
     <jakarta.jms.version>3.0.0</jakarta.jms.version>
-    <jakarta.json.version>2.0.2</jakarta.json.version>
+    <jakarta.json.version>2.1.3</jakarta.json.version>
     <jakarta.json.bind.version>2.0.0</jakarta.json.bind.version>
     <jakarta.json.impl.version>2.0.1</jakarta.json.impl.version>
     <jakarta.resource.version>2.0.0</jakarta.resource.version>
@@ -245,24 +245,24 @@
     <jaxb-impl.version>3.0.2</jaxb-impl.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon
          This is not always possible if we need to bump versions for CVE's -->
-    <jersey.version>3.0.5</jersey.version>
+    <jersey.version>3.1.12</jersey.version>
     <jettison.version>1.5.3</jettison.version>
-    <jline.version>3.20.0</jline.version>
-    <log4j2.version>2.18.0</log4j2.version>
+    <jline.version>3.30.16</jline.version>
+    <log4j2.version>2.26.1</log4j2.version>
     <micrometer.version>1.6.6</micrometer.version>
     <!-- NOTE: mvel dependency removed.
          version is preserved for backwards compatibility testing in rest-mvel -->
     <mvel.version>2.4.12.Final</mvel.version>
     <!-- NOTE: this version should ideally be in sync' with that used by Helidon
          This is not always possible if we need to bump versions for CVE's -->
-    <netty.version>4.1.86.Final</netty.version>
+    <netty.version>4.2.17.Final</netty.version>
     <opentracing.grpc.version>0.2.3</opentracing.grpc.version>
     <opentracing.version>0.33.0</opentracing.version>
     <opentracing.tracerresolver.version>0.1.8</opentracing.tracerresolver.version>
     <oracle.db.version>11.2.0.3.0</oracle.db.version>
     <protobuf.version>3.21.12</protobuf.version>
     <resin.version>3.0</resin.version>
-    <rxjava.version>3.0.2</rxjava.version>
+    <rxjava.version>3.1.12</rxjava.version>
     <sdoapi.version>12.2.0.1.0</sdoapi.version>
     <slf4j.version>1.7.36</slf4j.version>
     <spymemcached.version>2.12.3</spymemcached.version>
@@ -277,11 +277,11 @@
     <hamcrest.version>1.3</hamcrest.version>
     <hamcrest-2.version>2.2</hamcrest-2.version>
     <junit.version>4.13.2</junit.version>
-    <junit.jupiter.version>5.8.2</junit.jupiter.version>
+    <junit.jupiter.version>5.14.4</junit.jupiter.version>
     <mockito.version>3.12.4</mockito.version>
     <objenesis.version>2.2</objenesis.version>
     <oracle.bedrock.version>7.0.1</oracle.bedrock.version>
-    <testcontainers.version>1.17.3</testcontainers.version>
+    <testcontainers.version>1.21.4</testcontainers.version>
 
     <!-- commercial test dependency versions -->
   </properties>
@@ -1481,7 +1481,7 @@
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-project-info-reports-plugin</artifactId>
-            <version>3.0.0</version>
+            <version>3.9.0</version>
         </plugin>
 
         <!-- maven-surefire-plugin -->
