@@ -29,11 +29,11 @@
 
   <properties>
     <!-- library dependency versions -->
-    <maven.plugin.api.version>3.8.6</maven.plugin.api.version>
+    <maven.plugin.api.version>3.10.0</maven.plugin.api.version>
 
     <!-- maven plugin versions -->
     <maven.artifact.transfer.version>0.12.0</maven.artifact.transfer.version>
-    <maven.plugin.plugin.version>3.6.4</maven.plugin.plugin.version>
+    <maven.plugin.plugin.version>3.16.0</maven.plugin.plugin.version>
   </properties>
 
   <dependencyManagement>
